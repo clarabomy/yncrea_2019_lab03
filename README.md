@@ -13,5 +13,5 @@ We will print, in a web page, the content of a DB.
 * Create a new schema named `yncrea_lab03`
 * We assume that your DB credentials are `root:root`
 
-##TODO's
+## TODO's
 Just read the provided code and replace the TODO's with your implementation.
